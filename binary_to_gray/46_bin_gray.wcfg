@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="bin_gray_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="bin_gray_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="400.000 ns"></ZoomEndTime>
+      <Cursor1Time time="400.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="73"></NameColumnWidth>
+      <ValueColumnWidth column_width="147"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/bin_gray_tb/b3" type="logic">
+      <obj_property name="ElementShortName">b3</obj_property>
+      <obj_property name="ObjectShortName">b3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/b2" type="logic">
+      <obj_property name="ElementShortName">b2</obj_property>
+      <obj_property name="ObjectShortName">b2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/b1" type="logic">
+      <obj_property name="ElementShortName">b1</obj_property>
+      <obj_property name="ObjectShortName">b1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/b0" type="logic">
+      <obj_property name="ElementShortName">b0</obj_property>
+      <obj_property name="ObjectShortName">b0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/g3" type="logic">
+      <obj_property name="ElementShortName">g3</obj_property>
+      <obj_property name="ObjectShortName">g3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/g2" type="logic">
+      <obj_property name="ElementShortName">g2</obj_property>
+      <obj_property name="ObjectShortName">g2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/g1" type="logic">
+      <obj_property name="ElementShortName">g1</obj_property>
+      <obj_property name="ObjectShortName">g1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bin_gray_tb/g0" type="logic">
+      <obj_property name="ElementShortName">g0</obj_property>
+      <obj_property name="ObjectShortName">g0</obj_property>
+   </wvobject>
+</wave_config>

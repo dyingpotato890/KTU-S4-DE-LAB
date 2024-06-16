@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/niran/Documents/Main/Verilog Experiments/binary_to_gray/binary_to_gray.srcs/sources_1/new/bin_gray.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_gray
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/niran/Documents/Main/Verilog Experiments/binary_to_gray/binary_to_gray.srcs/sim_1/new/bin_gray_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_gray_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/niran/Documents/Main/Verilog Experiments/binary_to_gray/binary_to_gray.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
