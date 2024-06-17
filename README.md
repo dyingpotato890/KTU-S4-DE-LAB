@@ -39,6 +39,8 @@ Make sure you have the following software installed:
    - Click on ```Run Simulation``` to get the Waveform.
    - Click on ```RTL Analysis``` > ```Open Elaborated Design``` > ```Schematics``` to obtain the Schematics.
   
+   **Note:** Change the name of the ```.wcfg``` file to your roll-number.
+  
 ### Available Projects
 
    - Basic Gates
