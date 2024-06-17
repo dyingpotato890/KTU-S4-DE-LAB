@@ -6,7 +6,7 @@ This repository contains various projects for Digital Electronics Lab (DE Lab) f
 
 - [Prerequisites](#prerequisites)
 - [Downloading the Projects](#downloading-the-projects)
-- [Available Projects](available-projects)
+- [Available Projects](#available-projects)
   
 ### Prerequisites
 
