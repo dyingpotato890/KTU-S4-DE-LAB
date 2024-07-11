@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Jul 12 00:50:41 2024
+# Process ID: 17032
+# Current directory: C:/Users/niran/Documents/Main/Verilog Experiments/magnitude_comparator/magnitude_comparator.runs/synth_1
+# Command line: vivado.exe -log mag_comp_2bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mag_comp_2bit.tcl
+# Log file: C:/Users/niran/Documents/Main/Verilog Experiments/magnitude_comparator/magnitude_comparator.runs/synth_1/mag_comp_2bit.vds
+# Journal file: C:/Users/niran/Documents/Main/Verilog Experiments/magnitude_comparator/magnitude_comparator.runs/synth_1\vivado.jou
+# Running On        :bob
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :AMD Ryzen 5 5600H with Radeon Graphics         
+# CPU Frequency     :3294 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16474 MB
+# Swap memory       :2550 MB
+# Total Virtual     :19024 MB
+# Available Virtual :7272 MB
+#-----------------------------------------------------------
+source mag_comp_2bit.tcl -notrace
