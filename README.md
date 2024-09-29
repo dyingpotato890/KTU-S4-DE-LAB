@@ -49,3 +49,5 @@ Make sure you have the following software installed:
    - Binary To Gray Code Converter
    - 4:1 MUX
    - 1:4 DEMUX
+   - BCD Adder
+   - Magnitude Comparator (2-bit)
